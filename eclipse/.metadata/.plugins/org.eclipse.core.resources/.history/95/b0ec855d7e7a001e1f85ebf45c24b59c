@@ -1,0 +1,5 @@
+package com.mathieu.daemonium.common.block;
+
+public class BlockDaemoniumOre {
+
+}

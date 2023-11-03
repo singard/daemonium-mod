@@ -1,0 +1,19 @@
+package com.mathieu.daemonium.common.block;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.material.Material;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class BlockDaemoniumOre extends Block {
+	
+	public BlockDaemoniumOre() {
+        super(Material.rock);
+        setHardness(3.0F); // Réglez la dureté du minerai
+        setResistance(5.0F); // Réglez la résistance du minerai
+        setHarvestLevel("pickaxe", 2); // Réglez le niveau d'outil nécessaire (2 pour Diamond Pickaxe)
+        setBlockName("Daemon ore");
+        setUnlocalizedName("daemoniumOre"); // Réglez le nom du bloc
+        setCreativeTab(CreativeTabs.tabBlock); // Ajoutez le bloc à un onglet créatif
+    }
+
+}
