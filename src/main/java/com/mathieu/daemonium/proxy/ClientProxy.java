@@ -3,7 +3,7 @@ package com.mathieu.daemonium.proxy;
 public class ClientProxy extends CommonProxy {
 
 	@Override
-	public void registerRender() {
+	public void registerBlock() {
 
 		System.out.println("méthode côté client");
 

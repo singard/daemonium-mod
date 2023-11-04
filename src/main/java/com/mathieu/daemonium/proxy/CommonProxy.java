@@ -1,10 +1,15 @@
 package com.mathieu.daemonium.proxy;
 
+import com.mathieu.daemonium.common.World.WorldGenerate;
+import com.mathieu.daemonium.common.block.BlockDaemoniumOre;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+
 public class CommonProxy {
 
-    public void registerRender() {
+    public void registerBlock() {
 
-        System.out.println("méthode côté serveur");
+        System.out.println("m�thode serveur");
 
     }
 
