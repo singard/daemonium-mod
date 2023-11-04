@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;Minecraft&apos;&#x0D;&#x0A;- Original project: &apos;Minecraft&apos;&#x0D;&#x0A;- Original element: &apos;Minecraft/src/main/resources/assets.minecraft.textures.blocks&apos;" description="Delete element" element1="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;assets.minecraft.textures.blocks" element2="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;assets.minecraft.textures" element3="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;assets.minecraft" element4="/src\/main\/resources=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;assets" elements="4" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1699038790527" subPackages="false" version="1.0"/>
-</session>

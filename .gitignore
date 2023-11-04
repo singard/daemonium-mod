@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+eclipse/.metadata/
+
+eclipse/crash-reports/
+
+eclipse/logs/
+
+eclipse/config/
+
+eclipse/usernamecache.json
+
+eclipse/options.txt
+
+eclipse/server.properties
+
+eclipse/saves/
+
+eclipse/world/
